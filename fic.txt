@@ -1,5 +1,9 @@
  je suis perdu mon ami 
 
  ishlibodo
+<<<<<<< HEAD
 
  hakunia
+=======
+ qui est tu ?
+>>>>>>> f4c90a26ff6d65d611b93eab9e8a40a0782ddb16
